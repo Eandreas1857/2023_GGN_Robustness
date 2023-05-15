@@ -1,0 +1,5 @@
+
+Hb : (~Kni)
+Gt : (~Kr)   
+Kr : (~Kni)(~Gt)
+Kni : (~Gt)(~Hb)
